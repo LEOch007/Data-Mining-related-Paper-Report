@@ -21,3 +21,7 @@
 6.pdf
 - Fast Algorithm for Modularity-Based Graph Clustering
 - On the Permanence of Vertices in Network Communities
+
+7.pdf
+- Modularity and community structure in networks
+- Semi-supervised Community Detection Framework Based on Non-negative Factorization Using Individual Labels
