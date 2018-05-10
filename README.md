@@ -31,3 +31,11 @@
 7.pdf
 - Modularity and community structure in networks
 - Semi-supervised Community Detection Framework Based on Non-negative Factorization Using Individual Labels
+
+8.pdf
+- Community Preserving Network Embedding
+- LINE: Large-scale Information Network Embedding
+
+9.pdf
+- Label Informed Attributed Network Embedding
+- DeepWalk: Online Learning of Social Representations
