@@ -39,3 +39,7 @@
 9.pdf
 - Label Informed Attributed Network Embedding
 - DeepWalk: Online Learning of Social Representations
+
+10.pdf
+- Probabilistic Matrix Factorization
+- Collaborative Deep Learning for Recommender Systems
