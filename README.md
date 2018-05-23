@@ -43,3 +43,7 @@
 10.pdf
 - Probabilistic Matrix Factorization
 - Collaborative Deep Learning for Recommender Systems
+
+11.pdf
+- A Hybrid Collaborative Filtering Model with Deep Structure for Recommender Systems
+- Deep Collaborative Filtering via Marginalized Denoising Auto-encoder
