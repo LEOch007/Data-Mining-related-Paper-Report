@@ -47,3 +47,7 @@
 11.pdf
 - A Hybrid Collaborative Filtering Model with Deep Structure for Recommender Systems
 - Deep Collaborative Filtering via Marginalized Denoising Auto-encoder
+
+12.pdf
+- Multi-View Clustering vis Joint Nonnegative Matrix Factorization
+- Partial Multi-View Clustering
