@@ -51,3 +51,12 @@
 12.pdf
 - Multi-View Clustering vis Joint Nonnegative Matrix Factorization
 - Partial Multi-View Clustering
+
+这周起，将开始进行课程的期末项目设计，需要自己提出一个新算法，故以下论文为自己在查阅相关论文时的参考：
+
+（参考论文也包括了上面的 *Community Preserving Network Embedding* 和 *Multi-View Clustering vis Joint Nonnegative Matrix Factorization* ）
+
+13.pdf
+- Learning the parts of objects by non-negative matrix factorization Motivation
+- Algorithms for Non-negative Matrix Factorization 
+- Non-negative Matrix Factorization in Multimodality Data for Segmentation and Label Prediction
